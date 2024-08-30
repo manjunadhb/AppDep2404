@@ -103,7 +103,7 @@ function Signin() {
             boxShadow: "10px 10px 10px black",
           }}
         >
-          Login
+          Login 2
         </h2>
         <div>
           <label>Email</label>
